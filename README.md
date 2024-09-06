@@ -17,11 +17,11 @@
 - [Requirements](#Requirements)
 - [The process](#the-process)
   - [Built with](#built-with)
-  - [First phase](#Exploration-and-cleaning)
+  - [First phase](#First-phase-exploration-and-cleaning)
     - [Importations](#Importing-libraries-and-loading-data)
     - [General](#General-exploration-and-cleaning)
     - [Cleaning](#Data-cleaning)
-  - [Second phase](#Visualization)
+  - [Second phase](#Second_phase_Visualization)
 - [Author](#author)
 
 ## INTRODUCTION
@@ -62,7 +62,7 @@ If you do not have these libraries, you can install them using *pip install*
 *   Version Control: Git, GitHub
 *   Dependency Management: Pip
 
-### First phase: exploration and cleaning
+### First phase exploration and cleaning
 
 #### Importing libraries and loading data:
 
@@ -91,14 +91,15 @@ If you do not have these libraries, you can install them using *pip install*
 *   Verification of data consistency and correctness.
 *   Treatment of null data.
 
-### Second phase: Visualization
+### Second phase Visualization
 
 Study of six real-world questions about the data and their representation through graphs.
 
 
 ## Author
 
-Made with 💜&🩸 by [Belén V N](https://github.com/BelenVN)
+Made with 💜 & 🩸 by [Belén V N](https://github.com/BelenVN)
 
-🖖🏽 LIVE LONG AND PROSPER
+
+# 🖖🏽 LIVE LONG AND PROSPER
  
