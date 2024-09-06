@@ -17,10 +17,11 @@
 - [Requirements](#Requirements)
 - [The process](#the-process)
   - [Built with](#built-with)
-  - [First phase](#First-phase:-exploration-and-cleaning)
+  - [First phase](#Exploration-and-cleaning)
     - [Importations](#Importing-libraries-and-loading-data)
     - [General](#General-exploration-and-cleaning)
     - [Cleaning](#Data-cleaning)
+  - [Second phase](#Visualization)
 - [Author](#author)
 
 ## INTRODUCTION
