@@ -21,7 +21,7 @@
     - [Importations](#Importing-libraries-and-loading-data)
     - [General](#General-exploration-and-cleaning)
     - [Cleaning](#Data-cleaning)
-  - [Second phase](#Second_phase_Visualization)
+  - [Secnd phase](#Second-phase-visualization)
 - [Author](#author)
 
 ## INTRODUCTION
@@ -91,7 +91,7 @@ If you do not have these libraries, you can install them using *pip install*
 *   Verification of data consistency and correctness.
 *   Treatment of null data.
 
-### Second phase Visualization
+### Second phase visualization
 
 Study of six real-world questions about the data and their representation through graphs.
 
