@@ -17,10 +17,10 @@
 - [Requirements](#Requirements)
 - [The process](#the-process)
   - [Built with](#built-with)
-  - [FirstPhase](#First phase: exploration and cleaning)
-    - [Importations](#Importing libraries and loading data)
-    - [General](#General exploration and cleaning)
-    - [Cleaning](#Data cleaning)
+  - [First-Phase](#First-phase:-exploration-and-cleaning)
+    - [Importations](#Importing-libraries-and-loading-data)
+    - [General](#General-exploration-and-cleaning)
+    - [Cleaning](#Data-cleaning)
 - [Author](#author)
 
 ## INTRODUCTION
@@ -67,15 +67,15 @@ If you do not have these libraries, you can install them using *pip install*
 
 *Use of pandas to load CSV files into DataFrames.*
 <p align="center">
-  <img src="imagenes/Importaciones.png" alt="project-image">
+  <img src="imagenes/Importaciones.PNG" alt="project-image">
 </p>
 
 <p align="center">
-  <img src="images/csv1.png" alt="project-image">
+  <img src="imagenes/csv1.PNG" alt="project-image">
 </p>
 
 <p align="center">
-  <img src="images/csv2.png" alt="project-image">
+  <img src="imagenes/csv2.PNG" alt="project-image">
 </p>
 
 
