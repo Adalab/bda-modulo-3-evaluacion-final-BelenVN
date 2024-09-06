@@ -17,7 +17,7 @@
 - [Requirements](#Requirements)
 - [The process](#the-process)
   - [Built with](#built-with)
-  - [First-Phase](#First-phase:-exploration-and-cleaning)
+  - [First phase](#First-phase:-exploration-and-cleaning)
     - [Importations](#Importing-libraries-and-loading-data)
     - [General](#General-exploration-and-cleaning)
     - [Cleaning](#Data-cleaning)
@@ -97,5 +97,7 @@ Study of six real-world questions about the data and their representation throug
 
 ## Author
 
-Made with 💜 by [Belén V N](https://github.com/BelenVN)
+Made with 💜&🩸 by [Belén V N](https://github.com/BelenVN)
+
+🖖🏽 LIVE LONG AND PROSPER
  
