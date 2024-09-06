@@ -8,7 +8,7 @@
 </p>
 
 
-<p id="description"> ### To complete the evaluation of module three of the Data Analyst Bootcamp I am doing at Adalab, I must perform an Exploratory Data Analysis (EDA) putting into practice the knowledge acquired.</p>
+<p id="description"> To complete the evaluation of module three of the Data Analyst Bootcamp I am doing at Adalab, I must perform an Exploratory Data Analysis (EDA) putting into practice the knowledge acquired.</p>
 
 ## INDEX
 
